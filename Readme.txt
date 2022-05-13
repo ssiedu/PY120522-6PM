@@ -1,0 +1,1 @@
+This Repository contains all the code of all the python programs made and executed during the training of this batch.
